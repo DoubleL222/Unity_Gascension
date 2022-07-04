@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: af5f96627c871594291ce55485135c28
+timeCreated: 1509701952
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wallTile: {fileID: 1860087693836748, guid: d79fc2058ff00a64a8682cc9b7e08468, type: 2}
+  - floorTile: {fileID: 1945804533920562, guid: 8042d7d0ac58b044e99a6fda6f0404db,
+      type: 2}
+  - genericTopSidedTile: {fileID: 1945804533920562, guid: 8042d7d0ac58b044e99a6fda6f0404db,
+      type: 2}
+  - movingTopSidedTile: {fileID: 1945804533920562, guid: 56b06a7e33403bc459cbdfa6d691d9fe,
+      type: 2}
+  - collapsableTopSidedTile: {fileID: 1945804533920562, guid: 9a69e26a481162f4f928f7eddd13687b,
+      type: 2}
+  - bean: {fileID: 1221917491603006, guid: 089ede951f4c5144cac28b8951e885f8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

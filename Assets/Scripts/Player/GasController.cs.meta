@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 09b84a314882896429984e96bd07d303
+timeCreated: 1509722100
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soundScript: {instanceID: 0}
+  - particleFxScript: {instanceID: 0}
+  - cone: {fileID: 114273977245099286, guid: 663d9b3eb6103504a8ee466edbab26bc, type: 2}
+  - cone_col: {fileID: 114418611203637468, guid: 663d9b3eb6103504a8ee466edbab26bc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
